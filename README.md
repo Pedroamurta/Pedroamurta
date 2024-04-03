@@ -1,5 +1,5 @@
-### Hi there I am Pedro! 
-##
+## Hi there I am Pedro! 
+
 <div>
   <a href = https://github.com/Pedroamurta />
   <picture>
@@ -25,8 +25,14 @@
     />
     <img height = 180em src = https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroamurta  />
   </picture>
+</div>
 
-
+<div display: inline_block> <br>
+  <img aling="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img aling "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
+          
   
 </div>
 <!--
