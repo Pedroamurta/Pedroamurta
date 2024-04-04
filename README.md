@@ -1,7 +1,7 @@
 ## Hi there I am Pedro! 
 I am a Brazilian imigrant, studying in Portugal. Thanks for visiting my profile!
 
-## My Work
+## My Experience
 <div>
   <a href = https://github.com/Pedroamurta />
   <picture>
