@@ -25,7 +25,7 @@ I am a Brazilian imigrant, studying in Portugal. Thanks for visiting my profile!
       srcset = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroamurta"
       media = "(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height = 180em src = https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroamurta  />
+    <img height = 180em src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroamurta&theme=dark" />
   </picture>
 </div>
 
